@@ -4,9 +4,10 @@
 
 - <b>[Coursera Capstone Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 
-<h2><img src= "https://user-images.githubusercontent.com/29946319/216067345-23afe546-c4c4-4ed5-9b2e-e2b4721b794f.jpg"/>Certifications:</h2>
+<h2><img src= "https://user-images.githubusercontent.com/29946319/216067345-23afe546-c4c4-4ed5-9b2e-e2b4721b794f.jpg"/> Certifications:</h2>
 
-  
+- <a href="https://www.credly.com/badges/a43eb79b-6e18-43b2-a59c-8a5ff046f283/public_url">IBM Data Engineering Professional Certificate</a>
+- 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
