@@ -3,13 +3,12 @@
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
 - <b>[Coursera Capstone Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[Python Project for Data Engineering](https://github.com/d3nniz/Python-Project)</b>
 
 <h2><img src= "https://user-images.githubusercontent.com/29946319/216067345-23afe546-c4c4-4ed5-9b2e-e2b4721b794f.jpg"/> Certifications and Badges:</h2>
 
 - <a href="https://www.credly.com/badges/a43eb79b-6e18-43b2-a59c-8a5ff046f283/public_url">IBM Data Engineering Professional Certificate</a>
 - <a href="https://www.credly.com/users/dennis-ejiogu">List of Badges</a>
-
-<h2>📺 YouTube Videos</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
