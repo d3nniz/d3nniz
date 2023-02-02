@@ -3,6 +3,7 @@
 <h2>👨‍💻 Data Engineering Projects:</h2>
 
 - <b>[Python Project for Data Engineering](https://github.com/d3nniz/Python-Project)</b>
+- <b>[Capstone Project](https://github.com/d3nniz/Capstone-Project)</b>
 
 <h2><img src= "https://user-images.githubusercontent.com/29946319/216067345-23afe546-c4c4-4ed5-9b2e-e2b4721b794f.jpg"/> Certifications and Badges:</h2>
 
